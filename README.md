@@ -1,7 +1,7 @@
-Gmail Always Show Icons in Compose Mode
+Gmail: Always Show Bottom Icons in Compose Mode
 ============
 
-Always display icons at bottom of gmail. See tweet for more info:
+Always display icons at bottom of Gmail. See following tweet for more info:
 
 https://twitter.com/Stammy/status/416291727981281280
 
